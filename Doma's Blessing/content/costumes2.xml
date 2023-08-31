@@ -1,0 +1,3 @@
+<costumes anm2root="gfx/characters/">
+  <costume id="733" anm2path="full_head.anm2" priority="0" type="passive" />
+</costumes>

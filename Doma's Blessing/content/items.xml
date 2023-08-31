@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+ <passive id="733" quality="3" devilprice="2" cache="all" description="Live...." gfx="blessing.png" name="Doma's Blessing" />
+</items>
